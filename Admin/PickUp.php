@@ -11,6 +11,7 @@
                         <div class="page-title-box d-flex align-items-center justify-content-between">
                             <h4 class="mb-0">PickUp Details</h4>
                         </div>
+                        //new changes
                         <input type="hidden" id="txtId" value='0' />
                         <div class="container-fluid">
                             <div class="row">
