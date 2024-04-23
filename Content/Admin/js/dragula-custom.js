@@ -1,0 +1,1 @@
+dragula([document.getElementById("coming-task"),document.getElementById("runing-task"),document.getElementById("done-task")]);

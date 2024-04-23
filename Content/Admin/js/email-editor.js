@@ -1,0 +1,1 @@
+ClassicEditor.create(document.querySelector("#email-editor")).then(function(e){e.ui.view.editable.element.style.height="150px"}).catch(function(e){console.error(e)});
